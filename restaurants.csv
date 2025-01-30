@@ -1,0 +1,101 @@
+restaurant_id,name,cuisine_type,location,owner_name,average_delivery_time,contact_number,rating,total_orders
+28,"Brown, Williams and Griffin",Indian,496 Christopher Brooks Suite 151,Joseph Hubbard,34,9269587909,5,956
+88,"Camacho, Davis and Erickson",Mexican,0482 Gordon Stravenue Suite 541,Alexander Nguyen,31,396-693-6037,6,650
+16,"Patrick, Frank and Griffith",Mexican,1966 Bryant Creek Suite 139,Frank Huynh,30,712-907-2090,5,144
+57,Russell-Johnson,Italian,"PSC 9053, Box 7429",Vicki Vargas,16,709.699.0070x263,9,388
+5,Vincent LLC,Chinese,USS Carr,Daniel George,16,658.616.3312,9,876
+77,Spencer Inc,Chinese,"PSC 2940, Box 8536",Dr. Julia Hernandez MD,33,760-675-3710x02170,9,730
+60,"Hall, Torres and Tran",Italian,81394 Jose Crescent,Bryan Mathews,55,+1-673-855-1176,1,339
+51,Wilson LLC,Italian,9492 Esparza Shoal Apt. 791,April Kramer,58,5469424038,4,340
+96,"Lang, Larson and Santana",Indian,Unit 6067 Box 7113,Denise Mccall,35,(934)304-4760x178,9,913
+82,"Garcia, Fry and Combs",Italian,4097 Andrew Stream Suite 988,Michele Conley,46,415-310-5557,2,335
+93,Weeks-Romero,Indian,4804 Tim Point,Sonya Dalton,49,(581)486-3465,6,195
+75,"Wilson, Brooks and Woods",American,USNS Moore,Stacy West,50,001-245-321-3067,2,103
+70,Williamson LLC,Indian,USNV Duke,Jessica Smith,38,+1-344-791-4823x917,6,677
+43,Lewis Ltd,Mexican,690 Chelsey Inlet,Michael Fuller,40,8433464318,0,736
+23,Smith Ltd,Indian,74208 Thomas Bridge,Olivia Lopez,57,443.697.4839,3,764
+86,Fox and Sons,Indian,055 John Ferry,Lauren Miller,31,957-713-9458,4,723
+19,"Allen, Ramirez and Lester",Mexican,4291 Michael Viaduct Suite 096,Lisa Mendez,20,(600)223-6918x24751,0,718
+46,Parker-Burke,Mexican,808 Eric Run,Kyle Allen,18,(216)993-3965,1,846
+61,Howard LLC,Indian,200 Hernandez Squares Apt. 086,Wesley Sheppard,19,311-757-7860,6,990
+94,"Harris, Smith and Jimenez",Chinese,64906 Mckee Run Apt. 890,James Garcia,30,436-419-2678,1,661
+21,Ross Ltd,Mexican,USCGC Barnes,Joshua Wilson,55,001-680-515-7214x274,4,816
+82,Palmer-Ford,Mexican,52345 Kim Crossing,Michael Anderson,60,+1-596-291-5388x42729,9,314
+76,Jones Ltd,Chinese,Unit 7849 Box 5376,Abigail Smith,43,+1-374-929-6562,6,938
+62,Thompson-Johnson,Italian,2131 Young Terrace Suite 791,Amy Black,28,757.927.4932x836,3,883
+6,Sanchez Group,American,821 Davis Plain,Jocelyn Harvey,55,+1-280-792-3071x4646,2,837
+80,Casey Inc,American,12167 Joseph Plaza Suite 819,Jonathan Gonzalez,31,3966330529,9,194
+47,"Reilly, Brown and Beck",Mexican,375 Scott Valleys,Christina Jensen,56,817-219-5536,7,597
+26,Howard PLC,Indian,617 Randy Hill,Jon Hill,52,580-456-1797x854,1,206
+98,"Dominguez, Snyder and Lindsey",Indian,47163 Dwayne Lock Suite 571,Kelli Ross,41,5753886896,5,994
+21,Duke-Burgess,American,1293 James Prairie,Hayden Burgess,57,8026247368,3,893
+60,"Hansen, Mcbride and Morris",American,83309 Byrd Pines Apt. 373,Cynthia Goodman,44,(536)499-5144x6820,2,805
+23,Miranda-Macias,Italian,10809 Kelly Park Apt. 924,Beth Wells,30,+1-592-675-6032x3534,8,877
+98,Martin PLC,Italian,2186 Gray Run,Sonia Payne,43,001-564-646-3226x369,4,464
+24,Flores and Sons,Indian,56581 Duke Corner,Jennifer Rodriguez,38,3873011839,2,361
+11,Hunter-Stone,Chinese,USCGC Wright,Glenn Ortiz,31,677-375-9252x100,9,337
+43,Wilkinson Ltd,Chinese,837 Rebecca Light,Courtney Wiggins,27,(651)678-9113,2,130
+78,Lee and Sons,American,33603 Middleton Pines Apt. 697,Jamie Lopez,55,+1-289-443-9295,2,843
+57,Jones-Price,Mexican,336 Oneill Causeway,Tamara Perez,46,(286)270-6626,9,899
+55,Chapman-Ferguson,Indian,485 David Port,Jerry Johnson,37,+1-282-641-3560x37931,1,738
+89,Myers LLC,Italian,17637 Derek Plaza,Stacy Travis MD,34,8282961225,6,712
+62,Gomez-Gonzalez,American,Unit 8405 Box 6123,Steven White,59,+1-234-373-1885x72090,3,745
+5,Frost-Stuart,American,1484 Maria Cove,Gerald Swanson,47,(674)929-6119,8,831
+64,"Martinez, Perez and Ali",Chinese,81218 Matthew Common Suite 641,Luis Nichols,58,(211)416-4212x37783,5,543
+9,"Velasquez, Davis and Cruz",American,72272 Smith Plains,Jennifer Tanner,54,001-497-278-9478x97784,9,151
+85,"Booker, Hess and Rice",Indian,5333 Rebecca Manors Suite 802,Rebecca Reyes,29,(625)807-4975,5,643
+31,Coleman-Torres,American,19864 Colton Park Suite 468,Lance Pierce,42,349-564-5014x4431,2,773
+11,"Roberts, White and Chen",Indian,66170 Johnny Village Apt. 753,Nicole Wade,28,001-917-657-1000x356,5,387
+68,Cline-Wallace,American,63210 Jeremy Courts,Tara Yu,45,001-482-477-5627x10752,7,569
+41,"Martinez, Hall and Cortez",Chinese,0564 Brown Loop,Seth Moreno,23,(583)512-3118x3262,5,639
+67,Lloyd Inc,Chinese,395 Nathan Course,Antonio Miller,44,+1-522-813-5169x75283,4,281
+52,Soto-Gonzalez,American,586 Emily Centers,Deborah Wyatt,38,207-319-2890x311,2,362
+19,"Williams, Goodman and Green",American,1752 Johnson Mill Suite 281,James Nguyen,33,681-843-6890x5074,0,210
+77,Humphrey-Jackson,Chinese,652 Russo Skyway,Richard Jordan,28,948-862-0135,3,149
+25,"Alvarado, Stevens and Edwards",Chinese,09492 Heather Burg Suite 204,Janet Vang,35,001-369-284-6523,0,245
+95,Ritter and Sons,Chinese,592 Kayla Square Apt. 323,Ivan Hull,29,(264)569-8012,3,999
+11,Jefferson-Phillips,Indian,36454 David Mission,Robert Payne,45,+1-451-935-9241,3,591
+71,Vaughan and Sons,American,5686 Cline Lake,Frank Thompson,26,281.581.9835,4,259
+32,Perry-Spears,American,720 Tyler Trace,Doris Baldwin,41,(857)765-4817x34213,5,344
+19,Richard-King,Mexican,4056 Johnson Village Apt. 703,Linda Smith,46,001-593-900-8839,2,282
+65,Sexton-Williamson,American,77741 Rebecca Dale Apt. 014,Joe Velasquez,50,316-658-7137x2714,1,987
+15,"Scott, Anderson and Sexton",Indian,"PSC 8114, Box 2977",Ashley Moreno,20,3714553415,8,237
+23,"Bonilla, Riley and Banks",Indian,933 Sara Centers Suite 029,Kyle Alvarez,22,455.972.7868x283,7,324
+68,Diaz-Sosa,Italian,281 Boyd Ramp,Holly Rivera,15,(240)573-2168,3,852
+32,Leon and Sons,Italian,771 Gilbert Fall,Brian Charles,42,+1-526-879-2151x88806,0,559
+35,"Daugherty, Bush and Ellison",Mexican,477 Kayla Walks Suite 658,Kimberly Moore,23,928.246.9069,6,335
+91,Baker-Clark,Mexican,578 Jamie Ranch,Mark Marks,54,+1-459-951-2520,4,517
+46,Ruiz-Smith,Chinese,6041 Deanna Isle,Nicholas Hart,26,307-620-1762,7,862
+77,"Conrad, Gray and Carpenter",Chinese,844 Lee Circle Apt. 051,Kyle Gonzalez,46,497-758-8474,8,105
+52,"Salazar, Rodriguez and Orr",Chinese,29130 Gardner Turnpike Suite 247,Mary Moore,53,293.237.2958,5,277
+18,Tucker Group,Chinese,46721 Edward Plains,James Davis,54,+1-720-529-9209x774,2,512
+20,Hunter Inc,Indian,7404 Smith Lake Suite 413,Brent Peterson,37,647-626-0529x00654,4,692
+8,Chang Group,Italian,6384 Bennett Corner Apt. 133,Benjamin Sharp,48,(642)709-3283x56926,0,407
+6,"Andrews, Matthews and Barron",American,4701 Rodriguez Point,Shawn Rice,48,808.859.7984,7,919
+27,Love Ltd,Chinese,293 Robin Camp,James Brown,56,+1-537-667-3485x89361,1,238
+100,Love Inc,American,1949 Holly Islands Apt. 745,Jessica Richards,23,457-856-4414x720,3,258
+66,Gonzalez-Adams,American,28299 Terri Square Apt. 137,Elizabeth Harris,37,976-967-7826,2,941
+96,"Brooks, Hernandez and Rich",American,4028 Jason Dale,Susan Murray,30,(314)481-5172x533,5,947
+3,Smith-Campbell,Chinese,Unit 7849 Box 5177,Jennifer Sims,44,729-788-2811x54879,1,197
+38,"Pham, Brown and Anderson",Italian,281 Esparza Stream Apt. 449,John Floyd,21,234-871-7841x327,5,983
+90,Richards Group,Italian,9664 Patterson Ford,Erica Barnes,32,+1-500-594-8008x3487,5,550
+13,"Adams, Johnson and Collins",American,1827 Kimberly Island,Tracy Hanson,34,572.620.1929,2,122
+63,Martin-Leach,Chinese,930 Crawford Landing,Steven Smith,17,841.966.1385,9,624
+55,"Dickerson, Randall and Munoz",Chinese,3959 Burch Lane,Amy Evans,43,001-623-619-1096,0,233
+17,Hopkins PLC,American,00735 Stephanie Pass,Olivia Williams,37,(693)642-2734x0712,8,298
+40,Shepard Ltd,Mexican,15204 Rhodes Landing Suite 723,Jessica Ellis,32,551-919-7308x79430,3,101
+100,Rich and Sons,Indian,5986 Gonzalez Viaduct,Shelby Butler,18,001-606-781-1646x1742,9,620
+65,Martin-Hernandez,Mexican,987 Lori Ferry Suite 046,Eric Davenport,35,(770)435-9073,9,791
+89,Johnson LLC,Chinese,36998 Katherine Landing,Olivia May,34,+1-531-744-5634x888,1,214
+34,Miller-Lopez,Chinese,176 Dylan Ford Apt. 922,Grant Wright,16,001-633-826-0519x24697,4,362
+60,Green LLC,Chinese,84413 Ashley Locks,Robert Barnes,60,+1-458-836-1066x635,0,915
+33,Morales and Sons,Chinese,65191 Emily Port Apt. 684,Jesse Joseph,25,(264)287-0027,5,423
+8,Carlson-Jones,American,3157 Vanessa Views Apt. 005,Alexis Wells,35,+1-327-793-1471x845,0,221
+84,Roberts Inc,Chinese,79606 Jones Plains,Karen Rodriguez,21,606.794.2480x671,4,195
+12,"Cruz, Merritt and Hart",American,087 Melendez Wall Apt. 667,Shannon Brown,22,001-784-408-2684x74579,7,768
+51,"Brown, Bell and Bridges",Italian,77562 Julie Plains Suite 847,Jason Chavez,24,520-601-1941,1,215
+7,Williamson-Molina,Chinese,273 Chapman Loaf,Keith Norman,28,(957)878-3859,2,353
+23,Juarez Ltd,Mexican,0679 William Islands Apt. 158,Amber Wilson,25,(618)235-8701,3,601
+20,Torres Ltd,American,40421 Burton Stravenue Apt. 824,John Ortega,22,5798015906,1,813
+49,Cook Inc,American,7502 Torres Garden,Christine Guerra,23,(469)708-0350x469,1,772
+3,Riley-Moore,Mexican,597 Martin Forks Suite 576,Zachary Johnston,35,385.352.3750,9,1000

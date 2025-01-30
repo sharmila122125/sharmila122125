@@ -1,0 +1,101 @@
+delivery_person_id,name,contact_number,vehicle_type,total_deliveries,average_rating,location
+1,Heidi Mcclain,545.762.2934x79143,Scooter,433,35,707 Owens View Apt. 795
+2,Brian Johnson,618.468.0903x143,Car,432,81,421 Glass Mill
+3,Amanda Ramirez,(509)898-5781,Scooter,252,84,51061 Sierra Wells
+4,Ashley Banks,(845)875-6593,Car,403,87,2638 Melanie Stravenue Apt. 505
+5,Joanna Pacheco,(654)877-1250x8237,Bike,263,12,5902 Caroline Wall Suite 627
+6,Joshua Adams,001-461-616-1526x177,Scooter,217,51,52431 Stacey Walks Apt. 154
+7,Robin Knight,001-644-355-5530x05076,Car,332,35,3940 James Knolls
+8,Devin Andrade,912-718-6174x33201,Scooter,50,69,"PSC 5166, Box 2494"
+9,Jennifer Warner,001-576-387-5190,Scooter,378,19,2690 Brian Stravenue
+10,Katherine Duffy,-5332,Bike,23,40,"PSC 7322, Box 9951"
+11,Cheryl Lambert,2654407245,Car,77,3,6492 Annette Cove Suite 159
+12,Lisa Kim,853.760.4108x94516,Car,345,42,6627 Miranda Ridge Suite 119
+13,Ellen Hodges,+1-815-415-9628x3043,Scooter,113,87,Unit 8114 Box 7367
+14,Steven Stokes,623.462.4148,Car,334,55,2270 Lynn Court
+15,Erika Williams MD,(967)595-4345,Scooter,64,35,53390 Leon Creek Suite 723
+16,Adam Barton,964-334-6297x5176,Scooter,446,89,6947 Spencer Wall Suite 172
+17,Jesse Long,246-830-4330x09686,Car,151,41,85194 Lynch Plain Suite 743
+18,Michael Miller,-7764,Scooter,330,35,286 Burke Lodge Apt. 269
+19,Rebecca Bryan,001-901-801-8624x565,Car,102,66,654 Robertson Roads
+20,Todd Mckinney,646-844-3351x556,Car,436,17,44008 Jones Throughway
+21,Crystal Matthews,-4051,Car,416,43,90615 William Pine Apt. 871
+22,Rodney Carlson,7222986804,Scooter,375,55,602 Tim Spurs Apt. 659
+23,James Harmon,(262)704-2330,Scooter,259,19,60240 Nelson Tunnel Apt. 127
+24,Steven Costa,472-588-1771x235,Car,234,99,869 Owens Ramp
+25,John Dyer,441-299-5912x4244,Car,132,4,"PSC 7015, Box 9118"
+26,Corey Moore,848.591.1271,Scooter,361,70,35411 Williams Estate
+27,Samantha White,908.922.5162,Car,466,38,739 Zachary Port Apt. 688
+28,Heidi Nelson,+1-935-371-2893x40511,Bike,249,32,70635 Smith Ranch
+29,Derek Ramos,001-774-388-1210,Scooter,152,13,34737 Hatfield Estates
+30,Patrick Smith,+1-736-519-7217x5179,Scooter,461,41,738 Molly Ways Suite 386
+31,Jeffrey Smith,667.280.9727,Bike,194,73,06943 Rodriguez Spring
+32,Rhonda Espinoza,569-872-5223x4697,Bike,179,98,6961 Kyle Brook Apt. 644
+33,Ronald Patterson,+1-917-790-4645x4338,Bike,421,35,USCGC Stevenson
+34,Catherine Jones,588-923-3841x015,Scooter,253,90,93188 Michelle Mount Apt. 418
+35,Zachary Ewing,(334)542-3743x51599,Car,179,79,Unit 9690 Box 4166
+36,Mr. Nathan Marsh,(711)911-9688x599,Car,153,10,9168 Moore Turnpike
+37,Jessica Young,(909)595-9787,Scooter,208,52,506 Long Shoals
+38,Joel Kline,3304218394,Car,351,71,2831 Mark Forest
+39,Thomas Wright,(391)726-4064,Scooter,493,13,471 Harvey Hollow
+40,Linda Johnson,001-698-474-5358,Bike,84,13,024 Ralph Divide Apt. 858
+41,Ryan Shannon DDS,392-774-1655,Bike,195,3,381 Raymond Mission
+42,Amber Odonnell,001-890-383-9283x26114,Scooter,19,78,962 Gonzalez Flats Suite 390
+43,Tiffany Mckinney,421.816.0217x036,Car,149,89,USS Harris
+44,Christopher Perez,687.740.4958x58697,Scooter,349,44,583 Jay Place
+45,Sean Warren,001-529-810-3876x259,Bike,309,88,08281 Kimberly Orchard
+46,Gabriel Garcia,+1-398-918-9440x945,Bike,444,58,99153 Jessica Village Apt. 362
+47,Anthony Mason,(624)625-9642,Scooter,226,50,356 Sullivan Centers Suite 631
+48,Heidi Davis,+1-898-922-5611x42738,Bike,303,28,Unit 0835 Box 8864
+49,Krystal Stanton,722.239.5085x37783,Scooter,312,56,342 Jacqueline Forge Suite 430
+50,Stephanie Bean,746-970-8556x217,Scooter,478,31,5138 Keith Place Apt. 077
+51,Tracy Lewis,8383799540,Car,195,25,9685 Simmons Plaza Suite 329
+52,Michelle Thompson,(926)459-6688x9419,Bike,23,0,USNS Ferguson
+53,Dr. Timothy Burns,475.622.8694x344,Bike,323,47,37783 Megan Lock Apt. 324
+54,Timothy Ryan,+1-370-225-4533x0269,Bike,318,8,149 Roberta Extensions
+55,Sarah Cameron,001-708-825-4788x4996,Scooter,339,52,0694 Maddox Unions Apt. 816
+56,Walter Hood,(821)343-0773x816,Car,262,33,99707 Holland Stravenue Suite 230
+57,Paula George,736.814.2403x79112,Bike,275,70,55488 Woodard Hills Suite 691
+58,Franklin Cox,+1-266-405-9606x2382,Bike,124,27,16554 Taylor Trace Suite 901
+59,Anthony Smith,541-752-0242,Scooter,188,64,0265 Martinez Course
+60,Andrew Weaver,677-332-8160x853,Bike,433,19,74880 Daniel Hollow
+61,Dennis Sanchez,479.650.1610x171,Car,198,40,"PSC 4293, Box 8366"
+62,Cheryl Rodriguez,684-310-6221x166,Scooter,170,13,8877 Frederick Glen Apt. 774
+63,Tim White,+1-213-956-6974x869,Car,328,9,211 Corey Roads
+64,Ricky Murphy,831-500-6739,Bike,174,34,310 Jamie Crest Apt. 041
+65,Katherine Juarez,(694)461-0625x356,Bike,392,6,13230 Richard Corner Apt. 745
+66,Jonathan Rogers,001-220-461-2535x3511,Car,123,69,587 Courtney Street Suite 673
+67,Christopher Walker,(900)504-9709,Car,212,4,16148 Garrett Station Apt. 081
+68,Harry York,450.533.1400,Bike,120,97,73010 Washington Stravenue
+69,Nathan Espinoza,+1-249-387-7109x9168,Car,205,89,8144 Robert Canyon
+70,Hannah Johnson,3863659795,Bike,69,34,"PSC 1114, Box 7417"
+71,Edward Lozano,8475652966,Car,221,64,78269 Alicia Neck Apt. 973
+72,Richard Villegas,973.991.7740x572,Car,229,66,8841 Andrew Port
+73,Brett Miller,001-337-893-9346x53561,Scooter,139,50,499 Jonathan Mountains Apt. 258
+74,Samantha Hayes,-9797,Scooter,396,54,27011 Harrell Harbor
+75,Stephanie Berry,(543)400-8669x64818,Bike,272,82,475 Mendez Court Apt. 225
+76,Nicolas Walker,-6677,Bike,11,20,92917 Joseph Island Suite 304
+77,Valerie Stewart,(438)376-9375x5295,Bike,16,78,2802 Hardy Lodge Apt. 441
+78,Kristin Taylor,(752)443-9624x54048,Scooter,71,22,80989 Robert Hollow
+79,Joel Cantu,(342)632-0746x93393,Bike,466,50,409 Timothy Dale Suite 471
+80,Joseph Brown,-7680,Scooter,79,87,455 Shepard Drive Apt. 031
+81,Dr. Sara Miller,520.903.9978x8977,Bike,236,21,67848 Lindsey Summit
+82,Ian Chapman,595-613-2463x805,Bike,266,66,404 Leonard Manors Apt. 109
+83,Sharon Diaz,554-980-5679,Car,319,4,21692 Blake Circles Apt. 212
+84,Jasmine Hernandez,970.730.8607,Car,185,49,447 Sean Islands
+85,Stephanie Smith,720.789.7421x2874,Car,26,80,3421 Joseph Trail
+86,Brian Kidd,+1-724-471-3936x6209,Bike,415,77,45950 Susan Summit Suite 730
+87,Kara Scott,840-694-0509,Scooter,117,6,444 Tammie Mall
+88,James Baker MD,649-944-7290x91727,Bike,228,90,919 Kirk Junction
+89,Sandra Thompson,739-569-3216,Bike,344,77,3681 Jones Fall
+90,Zoe Young,001-827-548-2840,Scooter,232,55,USNS Valencia
+91,Kevin Mcintyre,9906584388,Scooter,237,50,2195 Kelly Prairie Suite 553
+92,Matthew Jones,2529250633,Bike,221,95,638 Cook Loop
+93,Joshua Moore,590.426.1964x635,Bike,339,41,623 Young Ports
+94,Katherine Jacobs,5829549557,Bike,279,72,71378 Jerry Lane
+95,Chase Costa,535.937.4197,Scooter,441,64,843 Valerie Field
+96,Sarah Myers,514-410-5595x460,Bike,353,6,182 Larry Way Apt. 028
+97,Brittany King,568.333.2806x01372,Bike,401,49,28352 Samantha Lakes Suite 278
+98,Sabrina Kelly,(841)964-7079x29346,Bike,446,78,68508 Lee Orchard Suite 259
+99,Jason Steele,679.838.2774,Bike,155,48,4552 Blackburn Unions
+100,Daniel King,530.432.1214,Bike,289,15,6490 Kathleen Ridges
